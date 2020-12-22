@@ -12,7 +12,7 @@ include_once "config.php";
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="rights" content="Zita Adél Komeiner">
 
-  <title>Silk Leda Gallery API from PHP</title>
+  <title>Silk Leda</title>
 
   <!-- Favicon picture -->
   <link rel='icon' href='favicon.ico' type='image/x-icon' >
@@ -56,7 +56,7 @@ include_once "config.php";
             </a>
           </li>
           <li class="nav-item snavbar">
-            <a class="nav-link" href="index.php" style="font-weight:bold;">Gallery</a>
+            <a class="nav-link" href="gallery.php" style="font-weight:bold;">Gallery</a>
           </li>
           <li class="nav-item snavbar">
             <a class="nav-link" href="#" style="font-weight:bold;">Web shop</a>
