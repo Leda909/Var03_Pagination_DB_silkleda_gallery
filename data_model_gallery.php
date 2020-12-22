@@ -39,7 +39,7 @@ function get_all_gallery(){
     global $conn, $start_pos, $items_per_page ;
 
     pagination();
-    $sql = "SELECT * FROM gallery";
+    $sql = "SELECT * FROM gallery LIMIT $start_pos, $items_per_page";
 
     $result = mysqli_query($conn, $sql);
 
