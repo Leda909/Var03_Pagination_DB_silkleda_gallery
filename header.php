@@ -52,17 +52,17 @@ include_once "config.php";
       <div class="collapse navbar-collapse" id="navbarResponsive"> <!-- Drop down Nav bar -->
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link snavbar" href="#" style="font-weight:bold;">About
+            <a class="nav-link snavbar" href="index.php" style="font-weight:bold;">About
             </a>
           </li>
           <li class="nav-item snavbar">
             <a class="nav-link" href="gallery.php" style="font-weight:bold;">Gallery</a>
           </li>
           <li class="nav-item snavbar">
-            <a class="nav-link" href="#" style="font-weight:bold;">Web shop</a>
+            <a class="nav-link" href="webshop.php" style="font-weight:bold;">Web shop</a>
           </li>
           <li class="nav-item snavbar">
-            <a class="nav-link" href="#" style="font-weight:bold;">Contact</a>
+            <a class="nav-link" href="contact.php" style="font-weight:bold;">Contact</a>
           </li>
           
         </ul>
